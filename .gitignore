@@ -1,2 +1,4 @@
 *.zip
-__MACOSX
+*__MACOSX
+*_solutions
+*_Solutions
